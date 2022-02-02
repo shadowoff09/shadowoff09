@@ -1,13 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F59C1C&multiline=true&height=60&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40shadowoff09;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://github.com/shadowoff09)
+<h1 align="center">Hey there!</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/powered by-oxygen-white?style=for-the-badge&labelColor=4D4D4D"> <img src="https://img.shields.io/badge/powered by-water-blue?style=for-the-badge&labelColor=4D4D4D"> 
+  </p>
 
-[![shadowoff09's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowoff09&show_icons=true&theme=gruvbox)](https://github.com/shadowoff09)
+<p align="center">I try to make useful things.</p>
 
-## My repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowoff09&repo=strangerthings-quotes&theme=gruvbox)](https://github.com/shadowoff09/strangerthings-quotes)
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowoff09&repo=lucifer-quotes&theme=gruvbox)](https://github.com/shadowoff09/lucifer-quotes)
-    
-## My most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowoff09&langs_count=8&theme=gruvbox)](https://github.com/shadowoff09)
+<h2 align="center">Familiar With:</h2>
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowoff09&count_private=true&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&bg_color=4D4D4D&text_color=FFFFFF">
+ 
+  </p>
 
 
 
