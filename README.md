@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/powered by-oxygen-white?style=for-the-badge&labelColor=4D4D4D"> <img src="https://img.shields.io/badge/And-coffee-6f4e37?style=for-the-badge&labelColor=4D4D4D"> 
   </p>
 
-<p align="center">I try to make useful things.</p>
+<p align="center">I do useful things, or at least I try!</p>
 
 <h2 align="center">Familiar With:</h2>
 
