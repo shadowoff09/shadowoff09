@@ -35,7 +35,8 @@
 
 ## ⚡ Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowoff09&count_private=true&show_icons=true&theme=dark&hide_border=true&icon_color=FFFFFF&bg_color=4D4D4D&text_color=FFFFFF">
+  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 
 
