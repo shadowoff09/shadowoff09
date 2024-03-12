@@ -30,16 +30,15 @@
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0080FF?style=flat-square&logo=microsoftazure&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
-
-
-
-## ⚡ Github Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 
+## ⚡ Github Stats
+<p>
+    <img align="left" src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shadowoff09&theme=dark-smoky&hide_border=true&border_radius=10&mode=weekly&card_width=250&hide_current_streak=true">
+    <img align="right" src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 
+</p>
 
 
 
