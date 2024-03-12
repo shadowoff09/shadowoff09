@@ -34,9 +34,8 @@
 
 ## ⚡ Github Stats
 <p>
-    <img align="left" src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shadowoff09&theme=dark-smoky&hide_border=true&border_radius=10&mode=weekly&card_width=250&hide_current_streak=true">
-    <img align="right" src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 
 </p>
 
