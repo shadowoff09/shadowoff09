@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg">
 </div>
 
 ###
@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shadowoff09/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/shadowoff09/count.svg?#gh-dark-mode-only"  />
 </div>
 
 ###
