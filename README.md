@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </div>
 
 ###
