@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/diogogaspar931/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
@@ -52,28 +52,30 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="22" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="22" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="22" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="mysql logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/64659863?v=4"  />
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowoff09&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="210" alt="activity-graph graph"  />
+    <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  </div>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shadowoff09/shadowoff09/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shadowoff09/count.svg?#gh-dark-mode-only"  />
+<img src="https://raw.githubusercontent.com/shadowoff09/shadowoff09/output/snake.svg" alt="Snake animation" />
+</div>   
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shadowoff09/count.svg?"  />
 </div>
 
 ###
