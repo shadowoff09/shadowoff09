@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Diogo and I'm a 20-year-old Fullstack Developer, from Portugal.</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">! My name is Diogo and I'm a 20-year-old Fullstack Developer, from Portugal.</h2>
 
 ###
 
