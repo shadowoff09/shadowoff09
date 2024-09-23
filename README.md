@@ -1,81 +1,57 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">! My name is Diogo and I'm a 20-year-old Fullstack Developer, from Portugal.</h2>
+![👋 Hi, my name is Diogo and I'm a 20-year-old Fullstack Developer, from Portugal.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/diogogaspar931/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://paypal.me/diogogaspar123" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="paypal logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/16930621/shadowoff09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
-  </a>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, my name is Diogo and I'm a 20-year-old Fullstack Developer, from Portugal.
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-###
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left">
+  <a href="https://github.com/sushilmagare10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px">   </a> 
+  <a href="https://twitter.com/Sushil__SM" target="_blank">
+    <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=StackOverflow&logoColor=white" height="28" style="margin-right: 4px">
+  </a> 
+  <a href="https://www.linkedin.com/in/diogogaspar931" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="22" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="22" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="22" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="22" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="22" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="22" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="22" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="22" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="22" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="22" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="22" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="22" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" alt="mysql logo"  />
-</div>
+ **<h3 align="left">🚀 Passion for programming and web development. I love turning ideas into digital realities through code.</h3>**
 
-###
+**<h3 align="left">Rapid Fire</h3>**
 
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowoff09&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="210" alt="activity-graph graph"  />
-    <img src="https://raw.githubusercontent.com/shadowoff09/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  </div>
+- 💼 I'm currently working on: **🎓Computer Engineering Student**
+- 🌱 I'm currently learning: **📚 Fullstack Development**
+- 💬 Ask me about: **💡 TypeScript, React, Supabase, and RESTful APIs**
+- 📂 Portfolio: **<a href="https://shadowthings.pt" target="_blank">https://shadowthings.pt</a>**
 
+ **<h3 align="left">Skills</h3>**
 
-###
+<p align="left"><img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Nextjs" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=svelte" height="32" alt="Svelte" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="Supabase" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" style="margin-right: 4px"></p>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadowoff09&rank_icon=github&theme=react&show_icons=true" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=shadowoff09&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowoff09&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
+ **<h3 align="left">Support Me</h3>**
+
+<p align="left"><a href="https://paypal.me/diogogaspar931" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a> <a href="https://ko-fi.com/shadowoff09" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+
+![Profile views](https://komarev.com/ghpvc/?username=shadowoff09&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shadowoff09/shadowoff09/output/snake.svg" alt="Snake animation" />
-</div>   
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shadowoff09/count.svg?"  />
-</div>
-
-###
+</div>  
