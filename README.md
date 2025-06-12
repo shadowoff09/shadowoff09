@@ -9,8 +9,7 @@ Full-Stack Developer
 
 * 🌍  I'm based in Portugal
 * 🖥️  See my portfolio at [shadowdev.xyz](https://shadowdev.xyz)
-* ✉️  You can contact me at [shadowdev.sys@gmail.com](mailto:shadowdev.sys@gmail.com)
-* 🧠  I'm learning Fullstack Development, TypeScript, React, Supabase, and RESTful APIs
+* ✉️  You can contact me at [shadow@shadowdev.xyz](mailto:shadow@shadowdev.xyz)
 
 ### Skills
 
